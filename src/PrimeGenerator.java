@@ -1,7 +1,8 @@
 import java.util.Arrays;
 
-/** Below is my attempt to refactor the original version of PrimeGenerator from the book Clean Code,
- * written by Uncle Bob in Chapter 4, using a different representation. The algorithm used is the Sieve of Eratosthenes.
+/**　This is my attempt to refactor the original version of PrimeGenerator from the book 'Clean Code' written by
+ * Uncle Bob in Chapter 4. I have used a different representation, but kept the same implementation,
+ * which is the Sieve of Eratosthenes algorithm.
  */
 public class PrimeGenerator {
 
