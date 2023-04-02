@@ -8,7 +8,7 @@ As a reader of "Clean Code", it was my first tutor to coding practices. However,
 
 When I read PrimeGenerator in Chapter 4 of Clean Code, I had a similar feeling. I wondered if some splits made the code harder to understand, so I decided to refactor it in the way presented in this repository.
 
-Although I try to refactor code of Uncle Bob, I really appreciate he has written "Clean Code" to teach us a lot.
+Although I try to refactor some code by Uncle Bob, I really appreciate he has written "Clean Code" to teach us a lot.
 
 ## Discussion
 
