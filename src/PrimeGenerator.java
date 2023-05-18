@@ -7,7 +7,10 @@ import java.util.Arrays;
  */
 public class PrimeGenerator {
 
-    private static boolean[] primeFlags; // Indicates whether the number represented by index is prime or not.
+    /**
+     * Indicates whether the number represented by index is prime or not.
+     */
+    private static boolean[] primeFlags;
 
     public static int[] generatePrimes(int maxValue) {
         if (maxValue < 2)
